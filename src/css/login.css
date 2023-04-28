@@ -1,0 +1,11 @@
+.login{
+    position: absolute;
+    bottom: 50px;
+    left: 45%;
+    transform: translateX(10px);
+    background-color: black;
+    color: #fff;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+}
